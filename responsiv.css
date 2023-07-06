@@ -1,0 +1,716 @@
+@media screen and (max-width:500px){
+    .container{
+        width: 480px;
+        height: 7000px;
+    }
+    .container2{
+        width: 480px;
+        height: 3935px;
+    }
+    .container7{
+        width: 480px;
+        height: 4592px;
+    }
+    .container77{
+        width: 480px;
+        height: 5968px;
+
+    }
+    .container11{
+        width: 480px;
+        height: 3935px;
+    }
+    .container111{
+        width: 480px;
+        height: 3081px;
+    }
+    .container5{
+        width: 480px;
+        height: 2610px;
+    }
+    .container51{
+        width: 480px;
+        height: 3369px;
+        overflow: hidden;
+    }
+    .container52{
+        width: 480px;
+        height: 2680px;
+    }
+    .container3{
+        width: 480px;
+        height: 3935px;
+    }
+    .container3{
+        width: 480px;
+        height: 3120px;
+    }
+    .container6{
+        width: 480px;
+        height: 1442px;
+    }
+    .lax{
+        margin-top: 230px;
+    }
+    .section1 .row{
+        width: 480px;
+    }
+    .section1 .row .vector1{
+        margin-left: 30px;
+    }
+    .fkd{
+        margin-left: 220px;
+    }
+    .las{
+        margin-left: 280px;
+    }
+    .section1 .row .num{
+        margin-left: 50px;
+    }
+    .section1 .row .vector4{
+        margin-left: 205px;
+    }
+    .section1 .row .text{
+        margin-left: 225px;
+    }
+    .section1 .row .text2{
+        margin-left: 335px;
+    }
+    .section2 .row{
+        margin-left: 15px;
+    }
+    .section2 .row .menu, .menu1{
+        font-size: 12px;
+        margin-left: 20px;
+    }
+    .section2 .row .v7{
+        width: 4%;
+        margin-left: 15px;
+    }
+    .section3 .row{
+        width: 480px;
+        background-size: 480px 450px;
+    }
+    .section3 .row .matn{
+        font-size: 25px;
+        line-height: 30px;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .section3 .row .text{
+        margin-left: 30px;
+        margin-top: 170px;
+    }
+    .section3 .row .button{
+        margin-left: 30px;
+        margin-top: 230px;
+    }
+    .section3 .row .row2 .card1{
+        margin-left: 30px;
+        margin-top: 350px;
+        width: 220px;
+        height: 150px;
+    }
+    .section3 .row .row2 .card1 .matn3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section3 .row .row2 .card1 .we{
+        font-size: 12px;
+        margin-left: 15px;
+    }
+    .section3 .row .row2 .card1 .chiziq{
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    .section3 .row .row2 .card1 .v8{
+        margin-left: 170px;
+    }
+    .section3 .row .row2 .card2{
+        margin-left: 235px;
+        margin-top: 350px;
+        width: 220px;
+        height: 150px;
+    }
+    .section3 .row .row2 .card2 .name1{
+        font-size: 10px;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .section3 .row .row2 .card2 .name3{
+        font-size: 10px;
+        margin-left: 10px;
+    }
+    .section3 .row .row2 .card2 .name{
+        width: 90px;
+        height: 30px;
+        margin-left: 10px;
+    }
+    .section3 .row .row2 .card2 .name2{
+        width: 90px;
+        height: 30px;
+        margin-left: 10px;
+    }
+    .section4 .row .text{
+        margin-left: 30px;
+        margin-top: 30px;
+        font-size: 11px;
+    }
+    .section4 .row .text2{
+        margin-left: -78px;
+        margin-top: 50px;
+        line-height: 25px;
+        font-size: 30px;
+    }
+    .section4 .row .lorem{
+        margin-left: 30px;
+        margin-top: 120px;
+        font-size: 11px;
+    }
+    .section4 .row .num{
+        margin-left: 60px;
+        width: 60%;
+        margin-top: 150px;
+    }
+    .section4 .row .year{
+        width: 60%;
+        margin-left: 60px;
+    }
+    .section4 .row .ex{
+        margin-left: 60px;
+        width: 60%;
+    }
+    .section5 .row .text{
+        margin-top: 80px;
+        font-size: 11px;
+    }
+    .section5 .row .prof{
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .section5 .row .row2 .col{
+        width: 220px;
+        height: 250px;
+        border-radius: 5px;
+        margin-left: 10px;
+    }
+    .section5 .row .row3 .col{
+        width: 220px;
+        height: 250px;
+        border-radius: 5px;
+        margin-left: 10px;
+    }
+    .section5 .row .row2{
+        margin-left: 8px;
+    }
+    .section5 .row .row3{
+        margin-left: 8px;
+    }
+    .section6 .row .text{
+        font-size: 25px;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .section6 .row {
+        width: 480px;
+        height: 880px;
+    }
+    .section6 .row .text1{
+        font-size: 10px;
+        margin-left: 30px;
+        margin-top: 65px;
+    }
+    .section6 .row .button{
+        width: 120px;
+        height: 35px;
+        margin-left: 30px;
+        margin-top: 115px;
+    }
+    .section6 .row .pochta{
+        width: 80%;
+        height: 28%;
+        margin-top: 170px;
+        margin-left: 30px;
+    }
+    .section6 .row .row2{
+        margin-left: 15px;
+        margin-top: 50px;
+    }
+    .section6 .row .row3{
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    .section6 .row .row2 .block{
+        width: 210px;
+        margin-left: 10px;
+        height: 160px;
+    }
+    .section6 .row .row2 .block .text2{
+        margin-top: 50px;
+    }
+    .section6 .row .row3 .block{
+        width: 210px;
+        margin-left: 10px;
+        height: 160px;
+    }
+    .section6 .row .row3 .block .text2{
+        margin-top: 50px;
+    }
+    .section7 .row .text{
+        font-size: 10px;
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+    .section7 .row .text1{
+        font-size: 25px;
+        margin-left: 30px;
+        margin-top: 70px;
+    }
+    .section7 .row .row1{
+        margin-left: 30px;
+        margin-top: 150px;
+    }
+    .section7 .row .row2{
+        margin-left: 250px;
+        margin-top: 150px;
+    }
+    .section7 .row .blok{
+        margin-top: 630px;
+        margin-left: 30px;
+    }
+    .section7 .row .img{
+        width: 80%;
+        height: 180%;
+        margin-top: -510px;
+        position: absolute;
+        margin-left: 0px;
+    }
+    .section8 .row{
+        margin-top: 850px;
+        width: 480px;
+    }
+    .section8 .row .dol{
+        width: 350px;
+        margin-left: 20px;
+    }
+    .section8 .row .blok{
+        margin-left: 150px;
+        position: absolute;
+    }
+    .section9 .row .col{
+        margin-left: 25px;
+    }
+    .section9 .row .col1{
+        margin-left: 20px;
+    }
+    .section10 .row{
+        width: 480px;
+        height: 400px;
+    }
+    .section10 .row .card{
+        margin-left: 50px;
+        margin-top: 60px;
+    }
+    .section11 .row{
+        display: inline;
+        margin-left: 100px;
+    }
+    .section11 .row .block1{
+       margin-left: 80px;
+       margin-top: 10px;
+    }
+    .section11 .row .block{
+        margin-left: 80px;
+        margin-top: 20px;
+     }
+     .section11 .row .block2{
+        margin-left: 80px;
+        margin-top: 20px;
+     }
+     .section12 .row{
+        width: 478px;
+        margin-top: 120px;
+     }
+     .section12 .row .text{
+        font-size: 12px;
+        margin-left: 10px;
+     }
+     .section12 .row .button{
+        margin-left: 10px;
+     }
+     .section12 .row .daf{
+        width: 60%;
+        margin-left: 185px;
+        margin-top: -180px;
+        position: absolute;
+     }
+     .section13 .row{
+        width: 480px;
+     }
+     .section13 .row{
+        width: 480px;
+     }
+     .section13 .row .text{
+        margin-left: 20px; 
+        margin-top: 30px;
+     }
+     .section13 .row1{
+        margin-left: 15px;
+        margin-top: 75px;
+     }
+     .section13 .row .la{
+        margin-left: -670px;
+        margin-top: 30px;
+        float: left;
+     }
+     .section13 .row .la2{
+        margin-left: -750px;
+        margin-top: 30px;
+        float: left;
+     }
+     .section13 .row .top{
+        width: 400px;
+        margin-left: 30px;
+     }
+     .section13 .row .yx{
+        margin-left: -123px;
+     }
+     .section13 .row .row11{
+        margin-left: 250px;
+        margin-top: 450px;
+     }
+     #section3 #row{
+        width: 480px;
+     }
+     #section3 #row .hf{
+        margin-left: -150px;
+     }
+     .las{
+        margin-top: 30px;
+     }
+     #section3 #row .hf #text{
+        font-size: 32px;
+        margin-top: 80px;
+     }
+     .section14 .row .prof{
+        margin-left: 20px;
+        font-size: 18px;
+     }
+     .section14 .row .text1{
+        margin-left: 30px;
+        font-size: 7px;
+     }
+     .section14 .row{
+        width: 480px;
+        height: 450px;
+     }
+     .section14 .row .row2{
+        margin-left: 0px;
+     }
+     .section14 .row .row2 .block .text2{
+        font-size: 9px;
+     }
+     .section14 .row .row2 .block2 .text4{
+        font-size: 9px;
+     }
+     .section14 .row .row2 .block{
+        margin-left: -8px;
+     }
+     .section14 .row .row2 .block2{
+        margin-left: 10px;
+        margin-top: 40px;
+        width: 180px;
+     }
+     .section14 .row .row2 .block .text3{
+        font-size: 7px;
+     }
+     .section14 .row .row2 .block2 .text3{
+        font-size: 7px;
+     }
+     .section15 .row .image{
+        margin-left: 10px;
+        width: 55%;
+        height: 80%;
+     }
+     .section15 .row .blok{
+        width: 60%;
+        margin-left: 175px;
+        margin-top: -140px;
+        height: 180px;
+     }
+     .section15 .row .blok .text{
+        margin-top: 10px;
+        font-size: 20px;
+     }
+     .section15 .row .blok .text1{
+        margin-top: 10px;
+        font-size: 8px;
+     }
+     .section16 .tow{
+        margin-left: -200px;
+        margin-top: -20px;
+     }
+     .section16 .tow2{
+        margin-left: -670px;
+        margin-top: 500px;
+     }
+     .section17 .img{
+        width: 40%;
+     }
+     .section17 .img1{
+        width: 40%;
+        margin-top: -20px;
+        float: right;
+        margin-left: -10px;
+     }
+     .section17 .img2{
+        width: 40%;
+        margin-top: 40px;
+        margin-left: 55px;
+    }
+     .section17 .img3{
+        width: 40%;
+        margin-left: 280px;
+        margin-top: -60px;
+        float: right;
+     }
+     .section17 .img4{
+        width: 40%;
+        margin-left: 180px;
+     }
+     .section17 .row{
+        margin-left: -180px;
+     }
+     .section25 .row{
+        width: 480px;
+        height: 500px;
+     }
+     .section18 .row .meb{
+        margin-left: -5px;
+        width: 50%;
+        height: 280px;
+     }
+     .section18 .row .block{
+        width: 52%;
+        height: 252px;
+        margin-left: -11px;
+     }
+     .section18 .row .block .text{
+        font-size: 17px;
+        margin-top: 10px;
+        margin-left: 10px;
+     }
+     .section18 .row .block .card-text{
+        font-size: 7px;
+        margin-top: 10px;
+        margin-top: 7px;
+        margin-left: 10px;
+     }
+     .section18 .row .block .button{
+        margin-left: 10px;
+     }
+     .section19 .row{
+        width: 480px;
+     }
+     .section19 .row .rem{
+        margin-left: -370px;
+     }
+     .teb{
+        margin-left: -190px;
+     }
+     .section20 .section8 .blok2{
+        margin-left: 350px;
+        margin-top: -230px;
+        width: 310px;
+        height: 300px;
+     }
+     .hhh .section16 .roww{
+        margin-left: -200px;
+     }
+     .section16 .fff{
+        margin-left: -675px;
+        margin-top: 400px;
+     }
+     .section23 .row{
+        width: 480px;
+        margin-top: 130px;
+        position: absolute;
+     }
+     .section23 .row .blok{
+        margin-left: 45px;
+     }
+     .section26 .row2{
+        margin-left: 70px;
+        display: block;
+     }
+     .section26 .row2 .block{
+        margin-top: 20px;
+     }
+     .trr{
+        margin-left: -20px;
+     }
+     .jas{
+        margin-left: -230px;
+     }
+     .section24 .blok{
+        margin-left: 250px;
+        margin-top: -350px;
+     }
+     .section24 .img{
+        margin-top: 30px;
+        margin-left: 206px;
+        width: 517px;
+     }
+     .kolp{
+        margin-top: 680px;
+        position: absolute;
+     }
+     .section28 .row{
+        width: 480px;
+     }
+     .section28 .row .blok{
+        margin-left: 50px;
+     }
+     .section29 .row1{
+        margin-left: -200px;
+     }
+     .section30 .ror{
+        margin-left: 25px;
+        width: 90%;
+        height: 420px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        background-size: 450px 300px;
+     }
+     .ula{
+        margin-left: -90px;
+     }
+     .section30 .ror .text{
+        font-size: 18px;
+        margin-left: 300px;
+        margin-top: 100px;
+     }
+     .section30 .ror .text1{
+        font-size: 6.2px;
+        margin-left: 110px;
+        margin-top: 135px;
+     }
+     .section30 .ror .button{
+        margin-left: 280px;
+        margin-top: 15px;
+     }
+     .section27 .row{
+        margin-left: -210px;
+     }
+     .section27 .row .row1 .op{
+        width: 25%;
+     }
+     .section27 .row .row2{
+        width: 465px;
+     }
+     .section27 .row .row2 .oo .text{
+        font-size: 9px;
+        margin-left: 25px;
+     }
+     .section27 .row .row2 .oo1 .text{
+        font-size: 9px;
+        margin-left: -60px;
+     }
+     .section27 .row .row2 .oo2 .text{
+        font-size: 9px;
+        margin-left: -155px;
+     }
+     .section27 .row .row2 .oo3 .text{
+        font-size: 9px;
+        margin-left: -215px;
+     }
+
+     .section27 .row .row2 .oo .text2{
+        font-size: 9px;
+        margin-left: 40px;
+     }
+     .section27 .row .row2 .oo1 .text2{
+        font-size: 9px;
+        margin-left: -35px;
+     }
+     .section27 .row .row2 .oo2 .text2{
+        font-size: 9px;
+        margin-left: -140px;
+     }
+     .section27 .row .row2 .oo3 .text2{
+        font-size: 9px;
+        margin-left: -205px;
+     }
+     .section4 .row{
+        margin-left: -210px;
+        margin-top: -40px;
+     }
+     .section4 .lorem1{
+        margin-left: 20px;
+        margin-top: 200px;
+     }
+     .section4 .button8{
+        margin-left: 20px;
+        margin-top: 270px;
+     }
+     .section21 .row{
+        width: 480px;
+        margin-top: 350px;
+        height: 700px;
+     }
+     .section21 .row .img{
+        width: 70%;
+        margin-left:  70px;
+        margin-top: 20px;
+    }
+    .section21 .row .img2{
+        width: 80%;
+        height: 280px;
+        margin-left:  60px;
+        margin-top: 50px;
+    }
+    .section21 .row .matn{
+        margin-top: 340px;
+        margin-left: -340px;
+    }
+    .section21 .row .matn2{
+        margin-top: 370px;
+        margin-left: -380px;
+    }
+    .section21 .row .text{
+        margin-top: 60px;
+        margin-left: 65px;
+    }
+    .section21 .row .lorem{
+        margin-top: 20px;
+        margin-left: 65px;
+    }
+    .section21 .row .pok{
+        margin-top: 10px;
+        margin-left: -585px;
+    }
+    .section22 .pod{
+        margin-left: -170px;
+        margin-top: -50px;
+    }
+    .section22 .img{
+        width: 75%;
+        margin-top: 380px;
+        margin-left: 60px;
+    }
+    .row40{
+        margin-top: -270px;
+    }
+    .section21 .row .button{
+        margin-left: 60px;
+    }
+    .pok1{
+        margin-left: -165px;
+    }
+    .section10 .row2{
+        width: 480px;
+    }
+    .section10 .row2 .card{
+        margin-left: 70px;
+    }
+}
